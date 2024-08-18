@@ -22,7 +22,7 @@ UI Design<br>
 Visualizing Big Data(Power BI, Python)<br>
 Power Query, VBA, Ms Access<br>
 React, Vue, Jsp, JAVA<br>
-MetaBus<br>
+MetaBus(Zep)<br>
 Prompt Engineering(chatGPT, GPTs)<br><br>
 
 <strong>License</strong><br>

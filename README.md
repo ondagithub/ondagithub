@@ -1,7 +1,7 @@
 
 👋 Hi, I’m @ondagithub
 
-http://xn--2j1b987a.kr/
+http://온다.kr/
 
 Work
 Vocational training instructor/teacher(UI/UX Engineer, OA Master)

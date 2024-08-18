@@ -1,6 +1,4 @@
 
-👋 Hi, I’m @ondagithub<br><br>
-
 http://온다.kr/<br><br>
 
 <strong>Work</strong><br>

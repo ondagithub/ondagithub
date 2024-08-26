@@ -29,4 +29,5 @@ GTQ(Photoshop, GTQi(illustrator)<br>
 컴퓨터활용능력(PowerQuery, VBA, Access)<br>
 정보처리산업기사<br>
 정보처리기사<br>
-AICE(인공지능 활용능력)<br><br>
+파워BI(PowerBI)<br>
+인공지능 활용능력(AICE)<br><br>

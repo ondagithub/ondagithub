@@ -26,7 +26,7 @@ Prompt Engineering(chatGPT, GPTs)<br><br>
 <strong>License</strong><br>
 ITQ(HWP, Excel, PPT)<br>
 GTQ(Photoshop, GTQi(illustrator)<br>
-컴퓨터활용능력(PowerQuery, VBA, Access)<br>
+컴퓨터활용능력(Excel, PowerQuery, VBA, Access)<br>
 정보처리산업기사<br>
 정보처리기사<br>
 파워BI(PowerBI)<br>

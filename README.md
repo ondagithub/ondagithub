@@ -9,24 +9,22 @@ Vocational training instructor/teacher<br>
 Samsungfire Portal, Kblife INS System, Hyundai Capital, Nonghyup Banking, VHS Medical Center, EBSi, Skyedu, KTHRD Portal<br><br>
 
 <strong>Skill Strong</strong><br>
+Photoshop, Figma HTML, CSS<br>
 HWP, Excel, PPT<br>
-Photoshop, Figma<br>
-HTML, CSS, JS<br>
-Font End Develop Framework, Library<br><br>
+Service Plan,  UI/UX Guide, Web Publishing<br><br>
 
 <strong>Skill Knowledge</strong><br>
-DX/UX Plan, SlideDeck<br>
-UI Design<br>
-Visualizing Big Data(Power BI, Python)<br>
+JS, React, Vue<br>
+Fontend Develop Framework, Library<br>
+(SAP, Websquere, Nexacro, BootStrap, Jquery)<br>
+Visualizing Big Data(Power BI), SlideDeck<br>
 Power Query, VBA, Ms Access<br>
-React, Vue, Jsp, JAVA<br>
 MetaBus(Zep)<br>
-Prompt Engineering(chatGPT, GPTs)<br><br>
+GPTs<br><br>
 
 <strong>License</strong><br>
-ITQ(HWP, Excel, PPT)<br>
+ITQ(HWP, Excel, PPT) OA MASTER<br>
 GTQ(Photoshop, GTQi(illustrator)<br>
-컴퓨터활용능력(Excel, PowerQuery, VBA, Access)<br>
+컴퓨터활용능력(Excel, VBA, Access)<br>
 정보처리산업기사<br>
-정보처리기사<br>
-파워BI(PowerBI)<br><br>
+정보처리기사 파워BI(PowerBI)<br><br>

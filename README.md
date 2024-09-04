@@ -34,4 +34,5 @@ ITQ(HWP, Excel, PPT) OA MASTER<br>
 GTQ(Photoshop, GTQi(illustrator)<br>
 컴퓨터활용능력(Excel, VBA, Access)<br>
 정보처리산업기사<br>
-정보처리기사 파워BI(PowerBI)<br><br>
+정보처리기사<br>
+파워BI(PowerBI)<br><br>

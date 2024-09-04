@@ -6,7 +6,14 @@ Vocational training instructor/teacher<br>
 (UI/UX Engineer, OA Master)<br><br>
 
 <strong>Career</strong><br>
-Samsungfire Portal, Kblife INS System, Hyundai Capital, Nonghyup Banking, VHS Medical Center, EBSi, Skyedu, KTHRD Portal<br><br>
+Samsungfire Portal SM, 
+Kblife INS System SI, 
+Hyundai Capital SM, 
+Nonghyup Banking SI, 
+VHS Medical Center SI,
+KTHRD Portal SI,
+EBSi, Skyedu SM,
+Samsung C&T Corporation  SM<br><br>
 
 <strong>Skill Strong</strong><br>
 Photoshop, Figma HTML, CSS<br>
